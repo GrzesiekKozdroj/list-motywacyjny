@@ -1,0 +1,2 @@
+(this["webpackJsonplist-motywacyjny"]=this["webpackJsonplist-motywacyjny"]||[]).push([[0],{11:function(t,c,n){"use strict";n.r(c);var e=n(1),s=n.n(e),i=n(3),a=n.n(i),r=(n(8),n.p+"static/media/cat.4a85148a.jpg"),o=(n(9),n(0));var j=function(){return Object(o.jsx)("div",{className:"App",children:Object(o.jsx)("img",{src:r})})};a.a.render(Object(o.jsx)(s.a.StrictMode,{children:Object(o.jsx)(j,{})}),document.getElementById("root"))},8:function(t,c,n){},9:function(t,c,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.acb9a3cf.chunk.js.map
